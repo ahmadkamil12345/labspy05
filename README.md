@@ -3,7 +3,7 @@
 # Latihan yang pertama adalah membuat daftar kontak dengan menggunakan dictionary pada python
 berikut input nya
 
-![img](Ss/ss1.PNG)
+![img](Ss/ss1.png)
 
 
 Dengan penjelasan source code sebagai berikut:
@@ -215,24 +215,24 @@ print("="*30)
 	```
 ### D. Output
 
-![img](Ss/ss9.PNG)
+![img](Ss/ss9.png)
 
-![img](Ss/ss10.PNG)
+![img](Ss/ss10.png)
 
-![img](Ss/ss11.PNG)
+![img](Ss/ss11.png)
 
-![img](Ss/ss12.PNG)
+![img](Ss/ss12.png)
 
-![img](Ss/ss13.PNG)
+![img](Ss/ss13.png)
 
-![img](Ss/ss14.PNG)
+![img](Ss/ss14.png)
 
-![img](Ss/ss15.PNG)
+![img](Ss/ss15.png)
 
-![img](Ss/ss16.PNG)
+![img](Ss/ss16.png)
 
-![img](Ss/ss17.PNG)
+![img](Ss/ss17.png)
 
-![img](Ss/flowchart.JPG)
+![img](Ss/flowchart.jpg)
 
 ### Sekian Terimakasih
