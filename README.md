@@ -233,6 +233,6 @@ print("="*30)
 
 ![img](Ss/ss17.png)
 
-![img](Ss/flowchart.Jpg)
+![img](Ss/flowchart.jpg)
 
 ### Sekian Terimakasih
