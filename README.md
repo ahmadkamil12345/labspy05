@@ -112,11 +112,11 @@ print("="*30)
 # pratikum05
 ### A. Program
 
-![img](Ss/gg1.PNG)
+![img](Ss/gg1.png)
 
-![img](Ss/gg2.PNG)
+![img](Ss/gg2.png)
 
-![img](Ss/gg3.PNG)
+![img](Ss/gg3.png)
 
 
 
@@ -233,6 +233,6 @@ print("="*30)
 
 ![img](Ss/ss17.png)
 
-![img](Ss/flowchart.jpg)
+![img](Ss/flowchart.JPG)
 
 ### Sekian Terimakasih
