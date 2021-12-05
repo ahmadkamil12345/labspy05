@@ -235,7 +235,7 @@ print("="*30)
 
 
 
-![img](Ss/flowchart.png)
+![img](Ss/flowchart.PNG)
 
 
 ### Sekian Terimakasih
